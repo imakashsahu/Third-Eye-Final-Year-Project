@@ -1,4 +1,4 @@
-![Test Image 1](https://github.com/imakashsahu/Third-Eye-Final-Year-Project/blob/master/Logo.jpg)
+![Test Image 1](https://github.com/imakashsahu/Third-Eye-Final-Year-Project/blob/main/Logo.jpg)
 
 
 # THIRD EYE
@@ -21,6 +21,6 @@ In forensic science, it is seen that hand-drawn face sketches are still very lim
 ## PUBLISHED TECHNICAL PAPER
 Read the Technical Paper : http://www.ijitjournal.org/volume-6/issue-4/IJIT-V6I4P2.pdf
 
-![Certificate](https://github.com/imakashsahu/Third-Eye-Final-Year-Project/blob/master/Technical%20Paper%20Certificates/Akash%20Sahu.jpg?raw=true)
+![Certificate](https://github.com/imakashsahu/Third-Eye-Final-Year-Project/blob/main/Technical%20Paper%20Certificates/Akash%20Sahu.jpg)
 
 

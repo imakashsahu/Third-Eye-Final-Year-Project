@@ -5,8 +5,11 @@
 Forensic Face Sketch Construction and Recognition (My B.E. Final Year Project)
 
 ## SOURCE CODE
-[Download Source Code](https://drive.google.com/file/d/1WKZkri4fDoxg15QLGj8guo3zj7LyOcDL/view?usp=sharing)
+[Download Source Code](https://drive.google.com/file/d/1GG1F90qRMzmUv6REG8gf6yEtxGcuuXpa/view?usp=sharing)
 (*Please mention the purpose for which you need the source code in the message box*)
+
+## HOW TO RUN THE PROJECT
+[Email Me](akasharunsahu@gmail.com) to get a detailed guide to run the project
 
 ## WALKTHROUGH VIDEO
 Watch the walkthrough of the project to get idea about the project

@@ -9,7 +9,7 @@ Forensic Face Sketch Construction and Recognition (My B.E. Final Year Project)
 (*Please mention the purpose for which you need the source code in the message box*)
 
 ## HOW TO RUN THE PROJECT
-[Email Me](akasharunsahu@gmail.com) to get a detailed guide to run the project
+Email me at ***akasharunsahu@gmail.com*** to get a detailed guide to run the project
 
 ## WALKTHROUGH VIDEO
 Watch the walkthrough of the project to get idea about the project

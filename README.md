@@ -9,7 +9,7 @@ Forensic Face Sketch Construction and Recognition (My B.E. Final Year Project)
 (*Please mention the purpose for which you need the source code in the message box*)
 
 ## HOW TO RUN THE PROJECT
-Email me at ***akasharunsahu@gmail.com*** to get a detailed guide to run the project
+A detailed guide to run the Project can be found [here](https://dev.to/imakashsahu/forensic-face-sketch-construction-and-recognition-18kh)
 
 ## WALKTHROUGH VIDEO
 Watch the walkthrough of the project to get idea about the project
@@ -27,3 +27,5 @@ Read the Technical Paper : http://www.ijitjournal.org/volume-6/issue-4/IJIT-V6I4
 ![Certificate](https://github.com/imakashsahu/Third-Eye-Final-Year-Project/blob/main/Technical%20Paper%20Certificates/Akash%20Sahu.jpg)
 
 
+## FOR ANY OTHER QUERY
+Email me at ***akasharunsahu@gmail.com***

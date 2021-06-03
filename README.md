@@ -8,7 +8,7 @@ Forensic Face Sketch Construction and Recognition (My B.E. Final Year Project)
 [Download Source Code](https://drive.google.com/file/d/1GG1F90qRMzmUv6REG8gf6yEtxGcuuXpa/view?usp=sharing)
 (*Please mention the purpose for which you need the source code in the message box*)
 
-## HOW TO RUN THE PROJECT
+## HOW TO RUN THE PROJECT (GUIDE)
 A detailed guide to run the Project can be found [here](https://dev.to/imakashsahu/forensic-face-sketch-construction-and-recognition-18kh)
 
 ## WALKTHROUGH VIDEO

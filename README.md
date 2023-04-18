@@ -23,9 +23,6 @@ In forensic science, it is seen that hand-drawn face sketches are still very lim
 
 ## PUBLISHED TECHNICAL PAPER
 Read the Technical Paper : http://www.ijitjournal.org/volume-6/issue-4/IJIT-V6I4P2.pdf
+Other link : https://www.academia.edu/85447403/Forensic_Face_Sketch_Construction_and_Recognition?f_ri=5110
 
 ![Certificate](https://github.com/imakashsahu/Third-Eye-Final-Year-Project/blob/main/Technical%20Paper%20Certificates/Akash%20Sahu.jpg)
-
-
-## FOR ANY OTHER QUERY
-Email me at ***akasharunsahu@gmail.com***
